@@ -1,5 +1,5 @@
 # Java-Queue-Problem
-##Rules
+## Rules
 * Jobs take turns to be processed in First-in First-out manner.
 * At each turn, one job can run maximum 100 milliseconds (quantum time): 
   * If the execution/remaining execution time for the job is less than 100ms , I.e 30 ms, the job
