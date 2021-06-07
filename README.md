@@ -34,5 +34,5 @@ CurrentTime -Queue - Event
 14. 695 - Job5 ,Job4 - Job0 is terminated
 15. 745 - Job4 - Job5 is terminated
 17 775 -- Job4 is terminated
-## Program Usage
+## Run
 /.java Queue input.txt
